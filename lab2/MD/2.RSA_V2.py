@@ -1,3 +1,11 @@
+"""
+2.RSA
+Make a program that will implement the RSA algorithm made by you and with help of this program you can encrypt any string and then decrypt it.
+Restrictions:
+You must not use any libraries for this exercise.
+
+"""
+
 #Private Key 
 def private_key():
     private_key = 1
