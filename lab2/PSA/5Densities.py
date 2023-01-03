@@ -1,6 +1,6 @@
 import random, math
 def check_real(b, c):
-    if b**2 - 4*c > 0:
+    if b**2 - 4*c >= 0:
         return True
     else: return False
 
