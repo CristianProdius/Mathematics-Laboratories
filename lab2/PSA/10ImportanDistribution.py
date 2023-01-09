@@ -7,7 +7,7 @@ the_rebel_one_for_1_year = 0
 count_cought_by_contolor = 0
 encounter_hairy_taxator = 0
 
-the_normal_ones_pay_for_1_year = 2*972
+the_normal_ones_pay_for_1_year = 6*700
 for _ in range(700):
     if random.choices(["good lady", "hary muscular ciuvac"], [1-must_pay_probability, must_pay_probability]) == ["hary muscular ciuvac"]:
         the_rebel_one_for_1_year += 6
